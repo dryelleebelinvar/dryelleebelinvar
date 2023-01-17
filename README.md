@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Dryelle Ebelin 👋🏻
 
 <div>
-  <a href="https://github.com/dryelleebelin">
+  <a href="https://github.com/dryelleebelinvar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dryelleebelinvar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dryelleebelinvar&layout=compact&langs_count=7&theme=dark"/>
 </div>
