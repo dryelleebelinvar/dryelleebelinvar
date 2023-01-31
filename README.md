@@ -11,6 +11,7 @@
   <img align="center" alt="Dryelle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dryelle-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dryelle-Git" height="40" width="42" src="https://img.icons8.com/color/512/c-sharp-logo.png">
+  <img align="center" alt="Dryelle-Java" height="48" width="50" src="https://img.icons8.com/color/256/java-coffee-cup-logo--v1.png">
   <img align="center" alt="Dryelle-VScode" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
   <img align="center" alt="Dryelle-Git" height="37" width="42" src="https://img.icons8.com/fluency/512/visual-studio.png">
   <img align="center" alt="Dryelle-Git" height="40" width="44" src="https://img.icons8.com/color/48/000000/git.png">
